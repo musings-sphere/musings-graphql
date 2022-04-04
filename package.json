@@ -1,0 +1,9 @@
+{
+  "name": "musings-graphql",
+  "version": "1.0.0",
+  "repository": "https://github.com/musings-sphere/musings-graphql.git",
+  "author": "Francis Masha <francismasha96@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/musings-sphere/musings-graphql/issues",
+  "homepage": "https://github.com/musings-sphere/musings-graphql#readme"
+}
